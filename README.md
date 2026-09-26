@@ -1,2 +1,15 @@
-# cs418
-CS 418 Group Project
+# cs418-nameOfProject
+
+CS 418 Group Project: Asha, Mishal, Safiyyah, Saima
+
+Group's Research Question: ___
+
+Two Primary Datasets:
+1)
+2)
+
+Two Secondary Datasets:
+1)
+2)
+
+Notes about shape of data:
