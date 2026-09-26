@@ -1,6 +1,6 @@
 # cs418-nameOfProject
 
-CS 418 Group Project: Asha, Mishal,Saima
+CS 418 Group Project: Asha, Mishal, Safiyyah, Saima
 
 Group's Research Question: ___
 
