@@ -1,0 +1,32 @@
+****** PSID DATA CENTER ************************* 
+****** Variable labels for JobID = 365605 ******* 
+
+Variable    Labels
+
+TAS        Sum of All TAS Flags                    
+TAS21      TAS2021 = 1 if exists, else missing     
+ER30000    RELEASE NUMBER                          
+ER30001    1968 INTERVIEW NUMBER                   
+ER30002    PERSON NUMBER                         68
+ER32000    SEX OF INDIVIDUAL                       
+ER32006    WHETHER SAMPLE OR NONSAMPLE             
+ER10001    RELEASE NUMBER                          
+ER12079    TOTAL FAMILY INCOME                     
+ER12222    COMPLETED ED-HD                         
+ER12223    COMPLETED ED-WF                         
+ER33401    1997 INTERVIEW NUMBER                   
+ER33402    SEQUENCE NUMBER                       97
+ER33403    RELATION TO HEAD                      97
+ER34901    2021 INTERVIEW NUMBER                   
+ER34902    SEQUENCE NUMBER                       21
+ER34903    RELATION TO REFERENCE PERSON          21
+TA210001   RELEASE NUMBER                          
+TA210002   2021 TAS INTERVIEW (ID) NUMBER          
+TA210003   2021 PSID FAMILY IW (ID) NUMBER         
+TA210004   2021 INDIVIDUAL SEQUENCE NUMBER         
+TA210220   D1 EMPLOYMENT STATUS 1ST MENTION        
+TA210225   D9A TOTAL WEEKS WORKED LAST YEAR        
+TA210678   E1 WHETHER WAGES/SALARY                 
+TA210679   E2A AMT OF WAGES/SALARY                 
+
+*** End of labels ******************************* 
