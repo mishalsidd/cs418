@@ -6,7 +6,7 @@ Group's Research Question: How strongly do early childhood family income and par
 
 Two Primary Datasets:
 1) https://catalog.data.gov/dataset/the-panel-study-of-income-dynamics-psid?utm
-2) https://www.nlsinfo.org/content/cohorts/nlsy97?utm
+2) NLSY97 (National Longitudinal Survey of Youth 1997) – NLSY97 1997-2023 (rounds 1-21), https://www.nlsinfo.org/content/cohorts/nlsy97?utm
 
 Two Secondary Datasets:
 1) https://opportunityinsights.org/data/?utm
